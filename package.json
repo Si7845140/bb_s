@@ -8,6 +8,11 @@
     "server": "nodemon server.js"
     
   },
+  
+   "engines": {
+    "npm": ">=8.0.0 <9.8.1",
+    "node": ">=16.0.0 <20.5.1"
+  },
   "author": "sakib",
   "license": "ISC",
   "dependencies": {
